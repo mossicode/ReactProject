@@ -1,0 +1,36 @@
+.table_header{
+    color: gray !important;
+    padding-bottom: 20px;
+}
+.table_body{
+
+}
+.athorTable{
+    display: flex;
+    align-items: center;
+}
+.image_table{
+    width: 100%;
+    border-radius: 5px;
+}
+.athorTable{
+    padding-bottom: 20px;
+    align-items: center;
+}
+.status,.employed, .action .athorTable{
+    border: none;
+    display: flex;
+    align-items: center;
+   
+}
+.statusbtn{
+    padding: 4px 8px;
+    border: none;
+    border-radius: 2px;
+}
+
+.edit_link{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}

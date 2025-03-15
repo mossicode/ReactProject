@@ -1,0 +1,30 @@
+.breacCrumb_link{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.bread{
+    display: flex;
+    justify-content: space-between !important;
+    background-color: red;
+}
+.info_bread{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.info_bread span{
+    padding: 0px 10px;
+}
+.info_bread a{
+    text-decoration: none;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.info_bread i{
+    display: inline-block;
+    color: white !important;
+}
